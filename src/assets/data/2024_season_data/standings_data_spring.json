@@ -1,0 +1,72 @@
+{
+  "Hanwha Life eSports":{
+    "Win Rate":"100%",
+    "Wins":4.0,
+    "Losses":0.0,
+    "Game duration":"30:45",
+    "GDM":302.0
+  },
+  "Gen.G eSports":{
+    "Win Rate":"80%",
+    "Wins":4.0,
+    "Losses":1.0,
+    "Game duration":"30:31",
+    "GDM":211.0
+  },
+  "KT Rolster":{
+    "Win Rate":"80%",
+    "Wins":4.0,
+    "Losses":1.0,
+    "Game duration":"34:11",
+    "GDM":107.0
+  },
+  "T1":{
+    "Win Rate":"60%",
+    "Wins":3.0,
+    "Losses":2.0,
+    "Game duration":"31:12",
+    "GDM":139.0
+  },
+  "Dplus KIA":{
+    "Win Rate":"60%",
+    "Wins":3.0,
+    "Losses":2.0,
+    "Game duration":"35:39",
+    "GDM":184.0
+  },
+  "FearX":{
+    "Win Rate":"50%",
+    "Wins":2.0,
+    "Losses":2.0,
+    "Game duration":"29:00",
+    "GDM":32.0
+  },
+  "Nongshim RedForce":{
+    "Win Rate":"50%",
+    "Wins":2.0,
+    "Losses":2.0,
+    "Game duration":"29:53",
+    "GDM":-112.0
+  },
+  "DRX":{
+    "Win Rate":"0%",
+    "Wins":0.0,
+    "Losses":4.0,
+    "Game duration":"31:27",
+    "GDM":-315.0
+  },
+  "OK BRION":{
+    "Win Rate":"0%",
+    "Wins":0.0,
+    "Losses":4.0,
+    "Game duration":"30:50",
+    "GDM":-395.0
+  },
+  "Kwangdong Freecs":{
+    "Win Rate":"0%",
+    "Wins":0.0,
+    "Losses":4.0,
+    "Game duration":"30:03",
+    "GDM":-313.0
+  }
+}

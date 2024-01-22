@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
+
+
+:root {
+  --navbar-color: rgb(0, 0, 0);
+  --background-color: rgb(16, 21, 25);
+  --text-color: rgb(255, 255, 255);
+  --riot-red: rgb(216, 46, 52);
+  --riot-gray: rgb(26, 26, 26);
+  --riot-gray-2: rgb(31, 31, 31);
+  --riot-blue: rgb(90, 197, 198);
+  --border-gray: rgb(38, 44, 49);
+
+  --global-font: 'Montserrat', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat, sans-serif;
+  background-color: var(--background-color);
+  overflow: hidden;
+  color: white;
+  height: 90vh;
+}
+
+
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  height: 100%;
+  letter-spacing: 1.5px;
+  margin-left: 10px;;
+}
+
+.navbar {
+  height: 50px;
+  background-color: var(--navbar-color);
+  position: relative;
+  border-bottom: 2px solid var(--riot-gray);
+  padding-bottom: 5px;
+
+}
+
+.nav-elements ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.nav-elements ul li:not(:last-child) {
+  margin-right: 50px;
+}
+
+.nav-elements ul a,
+.fetch-data-button {
+  font-size: 10px;
+  font-weight: 800;
+  color: white;
+  text-decoration: none;    
+  transition: background-color 0.2s ease; /* Add a transition for a smooth effect */
+  border-radius: 3px; /* Adjust the border-radius for rounded corners */
+  padding:5px 5px;
+}
+
+.fetch-data-button {
+  background-color: transparent; /* Set background to transparent */
+  border: 0px solid black; /* Add a border for visibility, adjust as needed */
+  letter-spacing: 1.5px;
+  font-family: Montserrat, sans-serif;
+  margin: -5px -5px;
+  color: var(--riot-red);
+  margin-left: auto;
+  cursor: pointer;  
+}
+
+#fetch-data-button-container {
+  margin-left: auto;
+  padding-right: 50px;
+}
+
+.nav-elements ul a.active {
+  color: var(--riot-gray);
+  font-weight: 500;
+  position: relative;
+}
+
+.nav-elements ul a:hover,
+.fetch-data-button:hover {
+  position: relative;
+  background-color: rgba(200, 200, 200, 0.2); /* Adjust the values as needed */
+}
+
+
+.nav-elements ul a:hover::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: var(--riot-blue);
+}
+
+
+.logo {
+  display: flex;
+  height: 100%;
+  min-width:max-content;
+}
+
+.logo img {
+  width: auto;
+  height: 100%;
+  max-width: 100%;
+  min-width: 100%;
+}
+
+/* BUTTON */
+
+.nav-elements-button {
+  display: none;
+}
+
+.nav-elements ul a.active {
+  color: #574c4c;
+  font-weight: 500;
+  position: relative;
+}
+
+
+/* RESPONSIVE */
+
+@media screen and (max-width: 768px) {
+  .logo {
+    margin-inline-start: auto;
+  }
+
+  .nav-elements ul li:last-child {
+    margin-right: 30px;
+  }
+  
+  .nav-elements-button {
+    height: 100%;
+    min-width:max-content;
+    margin-top: 25px;
+    display: block;
+    cursor: pointer;  
+    margin-left: auto;
+  }
+
+  .nav-elements-button img {
+    width: auto;
+    height: 50%;
+    max-width: 100%;
+    min-width: 100%;
+  }
+
+  .nav-elements {
+    position: absolute;
+    right: 0;
+    top: 55px;
+    background-color: var(--riot-gray-2);
+    width: 0px;
+    height: 100vh;
+    transition: all 0.2s ease-in;
+    overflow: hidden;
+  }
+
+  .nav-elements.active {
+    width: clamp(250px, 40%, 768px);
+
+    @media (max-width: 500px) {
+      width: 100%;
+    }
+  }
+  
+  .nav-elements ul a {
+    display: block;
+  }
+
+  .nav-elements ul {
+    display: flex;
+    flex-direction: column;
+    margin-left: -10px;
+    margin-top: 0px;
+  }
+
+  .nav-elements ul li {
+    margin-right: unset;
+    margin-top: 22px;
+  }
+
+  .nav-elements ul a:hover::after {
+    width: 0; /* Set width to 0 to effectively disable the effect */
+    transition: none; /* Disable transition in this media query if needed */
+  }
+}
+

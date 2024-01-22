@@ -1,0 +1,30 @@
+
+.filter-dropdown-button {
+    width: 110%;
+    background-color: rgba(16, 21, 25, 1);
+    border: none;
+    margin-bottom: 1px;
+    color: rgba(147, 162, 175, 0.7);
+    padding: 10px;
+    text-align: left;
+    font-style: var(--global-font);
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    border-top: 1px solid var(--border-gray);
+    padding-left: 10px;
+    margin-left: -10px;
+    display: flex;
+    justify-content: left;
+}
+
+.filter-dropdown-button img {
+    width: 10px;
+    height: 10px;
+    margin-left: 0px;
+    margin-top: 1px;
+}
+
+.dropdown-content {
+    margin-top: 2px;
+}

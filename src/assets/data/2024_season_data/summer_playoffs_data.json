@@ -1,0 +1,310 @@
+[
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53258/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53258/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53259/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/53260/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53258/page-summary/"
+      }
+    ],
+    "teams": "GEN vs T1",
+    "team1": "Gen.G eSports",
+    "score": "3 - 0",
+    "team2": "T1",
+    "week": "FINALS",
+    "patch": "13.14",
+    "date": "2023-08-20",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1655210113163_GenG_logo_200407-05.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704375161752_T1_esports.png",
+    "shorthand1": "GENG",
+    "shorthand2": "T1"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53022/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53022/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53023/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/53024/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53022/page-summary/"
+      }
+    ],
+    "teams": "KT Rolster vs HLE",
+    "team1": "KT Rolster",
+    "score": "3 - 0",
+    "team2": "Hanwha Life eSports",
+    "week": "ROUND2",
+    "patch": "13.14",
+    "date": "2023-08-13",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2Fkt_darkbackground.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819564399_hle-2021-worlds.png",
+    "shorthand1": "KT",
+    "shorthand2": "HLE"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/52972/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/52972/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/52973/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/52974/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/52972/page-summary/"
+      }
+    ],
+    "teams": "GEN vs HLE",
+    "team1": "Gen.G eSports",
+    "score": "3 - 0",
+    "team2": "Hanwha Life eSports",
+    "week": "ROUND2",
+    "patch": "13.14",
+    "date": "2023-08-11",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1655210113163_GenG_logo_200407-05.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819564399_hle-2021-worlds.png",
+    "shorthand1": "GENG",
+    "shorthand2": "HLE"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53027/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53027/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53028/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/53029/page-game/"
+      },
+      {
+        "game_number": "Game 4",
+        "game_data_link": "https://gol.gg/game/stats/53030/page-game/"
+      },
+      {
+        "game_number": "Game 5",
+        "game_data_link": "https://gol.gg/game/stats/53031/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53027/page-summary/"
+      }
+    ],
+    "teams": "T1 vs GEN",
+    "team1": "Gen.G eSports",
+    "score": "3 - 2",
+    "team2": "T1",
+    "week": "ROUND3",
+    "patch": "13.14",
+    "date": "2023-08-12",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1655210113163_GenG_logo_200407-05.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704375161752_T1_esports.png",
+    "shorthand1": "GENG",
+    "shorthand2": "T1"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/52841/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/52841/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/52842/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/52843/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/52841/page-summary/"
+      }
+    ],
+    "teams": "HLE vs DRX",
+    "team1": "Hanwha Life eSports",
+    "score": "3 - 0",
+    "team2": "DRX",
+    "week": "ROUND1",
+    "patch": "13.14",
+    "date": "2023-08-08",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819564399_hle-2021-worlds.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1672910733664_01.Basic_W.png",
+    "shorthand1": "HLE",
+    "shorthand2": "DRX"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/52846/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/52846/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/52847/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/52848/page-game/"
+      },
+      {
+        "game_number": "Game 4",
+        "game_data_link": "https://gol.gg/game/stats/52849/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/52846/page-summary/"
+      }
+    ],
+    "teams": "Dplus KIA vs T1",
+    "team1": "Dplus KIA",
+    "score": "1 - 3",
+    "team2": "T1",
+    "week": "ROUND1",
+    "patch": "13.14",
+    "date": "2023-08-09",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1673260049703_DPlusKIALOGO11.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704375161752_T1_esports.png",
+    "shorthand1": "DK",
+    "shorthand2": "T1"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53057/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53057/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53058/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/53059/page-game/"
+      },
+      {
+        "game_number": "Game 4",
+        "game_data_link": "https://gol.gg/game/stats/53060/page-game/"
+      },
+      {
+        "game_number": "Game 5",
+        "game_data_link": "https://gol.gg/game/stats/53061/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53057/page-summary/"
+      }
+    ],
+    "teams": "T1 vs KT Rolster",
+    "team1": "T1",
+    "score": "3 - 2",
+    "team2": "KT Rolster",
+    "week": "ROUND3",
+    "patch": "13.14",
+    "date": "2023-08-19",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704375161752_T1_esports.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2Fkt_darkbackground.png",
+    "shorthand1": "T1",
+    "shorthand2": "KT"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/52967/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/52967/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/52968/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/52969/page-game/"
+      },
+      {
+        "game_number": "Game 4",
+        "game_data_link": "https://gol.gg/game/stats/52970/page-game/"
+      },
+      {
+        "game_number": "Game 5",
+        "game_data_link": "https://gol.gg/game/stats/52971/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/52967/page-summary/"
+      }
+    ],
+    "teams": "KT Rolster vs T1",
+    "team1": "KT Rolster",
+    "score": "2 - 3",
+    "team2": "T1",
+    "week": "ROUND2",
+    "patch": "13.14",
+    "date": "2023-08-10",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2Fkt_darkbackground.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704375161752_T1_esports.png",
+    "shorthand1": "KT",
+    "shorthand2": "T1"
+  }
+]

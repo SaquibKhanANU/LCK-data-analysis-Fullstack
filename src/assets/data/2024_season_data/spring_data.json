@@ -1,0 +1,550 @@
+[
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54078/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54078/page-summary/"
+      }
+    ],
+    "teams": "NS vs KDF",
+    "team1": "Nongshim RedForce",
+    "score": "-",
+    "team2": "Kwangdong Freecs",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-27",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2FNSFullonDark.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1641186009897_KDF_KR_logo.png",
+    "shorthand1": "NS",
+    "shorthand2": "KDF"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54084/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54084/page-summary/"
+      }
+    ],
+    "teams": "HLE vs T1",
+    "team1": "Hanwha Life eSports",
+    "score": "-",
+    "team2": "T1",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-28",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819564399_hle-2021-worlds.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704375161752_T1_esports.png",
+    "shorthand1": "HLE",
+    "shorthand2": "T1"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53894/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53894/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53895/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53894/page-summary/"
+      }
+    ],
+    "teams": "OK BRION vs FearX",
+    "team1": "OK BRION",
+    "score": "0 - 2",
+    "team2": "FearX",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-20",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1684916981638_OKSavingsBankBRION_fullcolor_darkbg_vertical.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704371545847_teamlogo_Fullcolorfordark.png",
+    "shorthand1": "BRO",
+    "shorthand2": "FOX"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54075/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54075/page-summary/"
+      }
+    ],
+    "teams": "GEN vs Dplus KIA",
+    "team1": "Gen.G eSports",
+    "score": "-",
+    "team2": "Dplus KIA",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-27",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1655210113163_GenG_logo_200407-05.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1673260049703_DPlusKIALOGO11.png",
+    "shorthand1": "GENG",
+    "shorthand2": "DK"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53888/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53888/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53889/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53888/page-summary/"
+      }
+    ],
+    "teams": "HLE vs DRX",
+    "team1": "Hanwha Life eSports",
+    "score": "2 - 0",
+    "team2": "DRX",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-19",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819564399_hle-2021-worlds.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1672910733664_01.Basic_W.png",
+    "shorthand1": "HLE",
+    "shorthand2": "DRX"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53885/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53885/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53886/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53885/page-summary/"
+      }
+    ],
+    "teams": "KT Rolster vs FearX",
+    "team1": "KT Rolster",
+    "score": "2 - 0",
+    "team2": "FearX",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-18",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2Fkt_darkbackground.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704371545847_teamlogo_Fullcolorfordark.png",
+    "shorthand1": "KT",
+    "shorthand2": "FOX"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54057/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54057/page-summary/"
+      }
+    ],
+    "teams": "FearX vs HLE",
+    "team1": "FearX",
+    "score": "-",
+    "team2": "Hanwha Life eSports",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-24",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704371545847_teamlogo_Fullcolorfordark.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819564399_hle-2021-worlds.png",
+    "shorthand1": "FOX",
+    "shorthand2": "HLE"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53903/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53903/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53904/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/53905/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53903/page-summary/"
+      }
+    ],
+    "teams": "Dplus KIA vs KT Rolster",
+    "team1": "Dplus KIA",
+    "score": "1 - 2",
+    "team2": "KT Rolster",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-21",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1673260049703_DPlusKIALOGO11.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2Fkt_darkbackground.png",
+    "shorthand1": "DK",
+    "shorthand2": "KT"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54063/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54063/page-summary/"
+      }
+    ],
+    "teams": "Dplus KIA vs NS",
+    "team1": "Dplus KIA",
+    "score": "-",
+    "team2": "Nongshim RedForce",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-25",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1673260049703_DPlusKIALOGO11.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2FNSFullonDark.png",
+    "shorthand1": "DK",
+    "shorthand2": "NS"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54081/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54081/page-summary/"
+      }
+    ],
+    "teams": "DRX vs OK BRION",
+    "team1": "DRX",
+    "score": "-",
+    "team2": "OK BRION",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-28",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1672910733664_01.Basic_W.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1684916981638_OKSavingsBankBRION_fullcolor_darkbg_vertical.png",
+    "shorthand1": "DRX",
+    "shorthand2": "BRO"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53900/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53900/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53901/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53900/page-summary/"
+      }
+    ],
+    "teams": "KDF vs HLE",
+    "team1": "Hanwha Life eSports",
+    "score": "2 - 0",
+    "team2": "Kwangdong Freecs",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-21",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819564399_hle-2021-worlds.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1641186009897_KDF_KR_logo.png",
+    "shorthand1": "HLE",
+    "shorthand2": "KDF"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53891/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53891/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53892/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53891/page-summary/"
+      }
+    ],
+    "teams": "T1 vs KDF",
+    "team1": "T1",
+    "score": "2 - 0",
+    "team2": "Kwangdong Freecs",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-19",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704375161752_T1_esports.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1641186009897_KDF_KR_logo.png",
+    "shorthand1": "T1",
+    "shorthand2": "KDF"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54060/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54060/page-summary/"
+      }
+    ],
+    "teams": "KDF vs KT Rolster",
+    "team1": "Kwangdong Freecs",
+    "score": "-",
+    "team2": "KT Rolster",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-24",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1641186009897_KDF_KR_logo.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2Fkt_darkbackground.png",
+    "shorthand1": "KDF",
+    "shorthand2": "KT"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54066/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54066/page-summary/"
+      }
+    ],
+    "teams": "OK BRION vs GEN",
+    "team1": "OK BRION",
+    "score": "-",
+    "team2": "Gen.G eSports",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-25",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1684916981638_OKSavingsBankBRION_fullcolor_darkbg_vertical.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1655210113163_GenG_logo_200407-05.png",
+    "shorthand1": "BRO",
+    "shorthand2": "GENG"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53897/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53897/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53898/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53897/page-summary/"
+      }
+    ],
+    "teams": "NS vs GEN",
+    "team1": "Nongshim RedForce",
+    "score": "0 - 2",
+    "team2": "Gen.G eSports",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-20",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2FNSFullonDark.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1655210113163_GenG_logo_200407-05.png",
+    "shorthand1": "NS",
+    "shorthand2": "GENG"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54072/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54072/page-summary/"
+      }
+    ],
+    "teams": "DRX vs FearX",
+    "team1": "DRX",
+    "score": "-",
+    "team2": "FearX",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-26",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1672910733664_01.Basic_W.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704371545847_teamlogo_Fullcolorfordark.png",
+    "shorthand1": "DRX",
+    "shorthand2": "FOX"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/54069/page-preview/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/54069/page-summary/"
+      }
+    ],
+    "teams": "KT Rolster vs T1",
+    "team1": "KT Rolster",
+    "score": "-",
+    "team2": "T1",
+    "week": "WEEK2",
+    "patch": "",
+    "date": "2024-01-26",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2Fkt_darkbackground.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704375161752_T1_esports.png",
+    "shorthand1": "KT",
+    "shorthand2": "T1"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53882/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53882/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53883/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53882/page-summary/"
+      }
+    ],
+    "teams": "OK BRION vs Dplus KIA",
+    "team1": "OK BRION",
+    "score": "0 - 2",
+    "team2": "Dplus KIA",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-18",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1684916981638_OKSavingsBankBRION_fullcolor_darkbg_vertical.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1673260049703_DPlusKIALOGO11.png",
+    "shorthand1": "BRO",
+    "shorthand2": "DK"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53702/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53702/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53703/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53702/page-summary/"
+      }
+    ],
+    "teams": "DRX vs NS",
+    "team1": "DRX",
+    "score": "0 - 2",
+    "team2": "Nongshim RedForce",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-17",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1672910733664_01.Basic_W.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2FNSFullonDark.png",
+    "shorthand1": "DRX",
+    "shorthand2": "NS"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53705/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53705/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53706/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/53707/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53705/page-summary/"
+      }
+    ],
+    "teams": "GEN vs T1",
+    "team1": "Gen.G eSports",
+    "score": "2 - 1",
+    "team2": "T1",
+    "week": "WEEK1",
+    "patch": "14.1",
+    "date": "2024-01-17",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1655210113163_GenG_logo_200407-05.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1704375161752_T1_esports.png",
+    "shorthand1": "GENG",
+    "shorthand2": "T1"
+  }
+]

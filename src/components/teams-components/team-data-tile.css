@@ -1,0 +1,28 @@
+.team-data-tile-container {
+  border: 1px solid var(--border-gray);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  border-left: none;
+  border-right: none;   
+}
+
+.team-data-tile-header {
+  display: flex;
+  align-items: center;
+}
+
+.team-data-tile-header p {
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+#team-data-tile-label {
+  border-bottom: 1px solid var(--riot-blue);
+}
+

@@ -1,0 +1,115 @@
+[
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53334/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53334/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53335/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/53336/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53334/page-summary/"
+      }
+    ],
+    "teams": "Dplus KIA vs DRX",
+    "team1": "Dplus KIA",
+    "score": "3 - 0",
+    "team2": "DRX",
+    "week": "ROUND1",
+    "patch": "13.14",
+    "date": "2023-08-25",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1673260049703_DPlusKIALOGO11.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1672910733664_01.Basic_W.png",
+    "shorthand1": "DK",
+    "shorthand2": "DRX"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53337/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53337/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53338/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/53339/page-game/"
+      },
+      {
+        "game_number": "Game 4",
+        "game_data_link": "https://gol.gg/game/stats/53340/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53337/page-summary/"
+      }
+    ],
+    "teams": "HLE vs Dplus KIA",
+    "team1": "Hanwha Life eSports",
+    "score": "1 - 3",
+    "team2": "Dplus KIA",
+    "week": "ROUND2",
+    "patch": "13.14",
+    "date": "2023-08-26",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819564399_hle-2021-worlds.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1673260049703_DPlusKIALOGO11.png",
+    "shorthand1": "HLE",
+    "shorthand2": "DK"
+  },
+  {
+    "games": [
+      {
+        "game_number": "Preview",
+        "game_data_link": "https://gol.gg/game/stats/53330/page-preview/"
+      },
+      {
+        "game_number": "Game 1",
+        "game_data_link": "https://gol.gg/game/stats/53330/page-game/"
+      },
+      {
+        "game_number": "Game 2",
+        "game_data_link": "https://gol.gg/game/stats/53331/page-game/"
+      },
+      {
+        "game_number": "Game 3",
+        "game_data_link": "https://gol.gg/game/stats/53332/page-game/"
+      },
+      {
+        "game_number": "Game 4",
+        "game_data_link": "https://gol.gg/game/stats/53333/page-game/"
+      },
+      {
+        "game_number": "Summary",
+        "game_data_link": "https://gol.gg/game/stats/53330/page-summary/"
+      }
+    ],
+    "teams": "KT Rolster vs HLE",
+    "team1": "KT Rolster",
+    "score": "3 - 1",
+    "team2": "Hanwha Life eSports",
+    "week": "ROUND1",
+    "patch": "13.14",
+    "date": "2023-08-24",
+    "logo1": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2Fkt_darkbackground.png",
+    "logo2": "https://am-a.akamaihd.net/image?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819564399_hle-2021-worlds.png",
+    "shorthand1": "KT",
+    "shorthand2": "HLE"
+  }
+]

@@ -1,0 +1,7 @@
+.match-statistics-panel {
+    border: 1px solid var(--border-gray);
+    border-top: none;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,45 @@
+
+.teams-versus-container {
+    display: grid;
+    grid-template-columns: 40% 20% 40%;
+    align-items: center;
+    justify-items: center; /* Center items along the horizontal axis */
+    font-family: var(--global-font);
+    font-size: 10px;
+    font-weight: 800;
+    padding: 10px 10px;
+    background-color: black;
+}
+
+.vs {
+    font-size: 8px;
+    color: rgb(136, 151, 163);
+}
+
+.team-versus {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.team1-versus {
+    justify-self: flex-end; /* Align to the right */
+    text-align: right; /* Adjust text alignment if needed */
+}
+
+.team2-versus {
+    justify-self: flex-start; /* Align to the right */
+    text-align: left; /* Adjust text alignment if needed */
+}
+
+
+.team-versus p {
+    margin: 0px 0px;
+}
+
+.team-versus img {
+    width: 20px;
+    height: 20px;
+    margin: 0 0;
+}
+

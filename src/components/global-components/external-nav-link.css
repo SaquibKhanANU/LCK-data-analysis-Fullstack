@@ -1,0 +1,17 @@
+.external-link {
+    position: relative;
+    color: #007bff; /* Change the color to match your design */
+    text-decoration: none;
+}
+
+.external-link:hover .external-arrow {
+    color: white; /* Change the color to match your design on hover */
+}
+
+.external-arrow {
+    position: absolute;
+    top: 4px;
+    right: -0.5em; /* Adjust the positioning as needed */
+    color: rgb(77, 77, 77); /* Same color as the link */
+}
+

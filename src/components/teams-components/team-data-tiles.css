@@ -1,0 +1,6 @@
+
+
+.team-data-tiles-container {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr); /* 3 equal columns */
+  }

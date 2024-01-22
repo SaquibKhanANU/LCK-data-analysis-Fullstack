@@ -1,0 +1,47 @@
+[
+  {
+    "Player":"kingen",
+    "Unnamed: 1":"Precision Resolve Conqueror Total healing: 205 Second Wind Total Healing: 282 Triumph Total Health Restored: 416, Total bonus gold granted: 120 Overgrowth Total Bonus Max Health: 217 Legend: Tenacity Time Completed: 19:10 +9 Adaptive  +9 Adaptive  +6 Armor  Last Stand Total Bonus Damage: 176",
+    "Unnamed: 2":"Precision Resolve Conqueror Total healing: 205 Second Wind Total Healing: 282 Triumph Total Health Restored: 416, Total bonus gold granted: 120 Overgrowth Total Bonus Max Health: 217 Legend: Tenacity Time Completed: 19:10 +9 Adaptive  +9 Adaptive  +6 Armor  Last Stand Total Bonus Damage: 176",
+    "Unnamed: 3":"Precision Resolve Conqueror Total healing: 205 Second Wind Total Healing: 282 Triumph Total Health Restored: 416, Total bonus gold granted: 120 Overgrowth Total Bonus Max Health: 217 Legend: Tenacity Time Completed: 19:10 +9 Adaptive  +9 Adaptive  +6 Armor  Last Stand Total Bonus Damage: 176",
+    "KDA":"0\/1\/6",
+    "CS":267,
+    "Champion":"Aatrox"
+  },
+  {
+    "Player":"Lucid",
+    "Unnamed: 1":"Sorcery Inspiration Phase Rush Total activations: 5 Cosmic Insight  Nimbus Cloak Times activated: 19 Magical Footwear Boots Arrival Time: 12:00 Transcendence Seconds refunded: 10 +8 Ability Haste  +9 Adaptive  +6 Armor  Waterwalking Total time active: 5:0",
+    "Unnamed: 2":"Sorcery Inspiration Phase Rush Total activations: 5 Cosmic Insight  Nimbus Cloak Times activated: 19 Magical Footwear Boots Arrival Time: 12:00 Transcendence Seconds refunded: 10 +8 Ability Haste  +9 Adaptive  +6 Armor  Waterwalking Total time active: 5:0",
+    "Unnamed: 3":"Sorcery Inspiration Phase Rush Total activations: 5 Cosmic Insight  Nimbus Cloak Times activated: 19 Magical Footwear Boots Arrival Time: 12:00 Transcendence Seconds refunded: 10 +8 Ability Haste  +9 Adaptive  +6 Armor  Waterwalking Total time active: 5:0",
+    "KDA":"2\/1\/6",
+    "CS":157,
+    "Champion":"Maokai"
+  },
+  {
+    "Player":"ShowMaker",
+    "Unnamed: 1":"Sorcery Inspiration Summon Aery Damage Dealt: 1427, Damage Shielded: 0 Perfect Timing  Manaflow Band Total bonus mana: 250, Total mana restored: 1002 Biscuit Delivery Biscuits Received: 3 Transcendence Seconds refunded: 22 +10% Attack Speed  +9 Adaptive  +6 Armor  Scorch Total Bonus Damage: 586",
+    "Unnamed: 2":"Sorcery Inspiration Summon Aery Damage Dealt: 1427, Damage Shielded: 0 Perfect Timing  Manaflow Band Total bonus mana: 250, Total mana restored: 1002 Biscuit Delivery Biscuits Received: 3 Transcendence Seconds refunded: 22 +10% Attack Speed  +9 Adaptive  +6 Armor  Scorch Total Bonus Damage: 586",
+    "Unnamed: 3":"Sorcery Inspiration Summon Aery Damage Dealt: 1427, Damage Shielded: 0 Perfect Timing  Manaflow Band Total bonus mana: 250, Total mana restored: 1002 Biscuit Delivery Biscuits Received: 3 Transcendence Seconds refunded: 22 +10% Attack Speed  +9 Adaptive  +6 Armor  Scorch Total Bonus Damage: 586",
+    "KDA":"6\/1\/4",
+    "CS":218,
+    "Champion":"Syndra"
+  },
+  {
+    "Player":"Aiming",
+    "Unnamed: 1":"Precision Inspiration Lethal Tempo Max Attack Speed Uptime: 30:2 Biscuit Delivery Biscuits Received: 3 Overheal Total Shielding: 2485 Cosmic Insight  Legend: Bloodline Time Completed: 21:50 +10% Attack Speed  +9 Adaptive  +6 Armor  Cut Down Total Bonus Damage: 244",
+    "Unnamed: 2":"Precision Inspiration Lethal Tempo Max Attack Speed Uptime: 30:2 Biscuit Delivery Biscuits Received: 3 Overheal Total Shielding: 2485 Cosmic Insight  Legend: Bloodline Time Completed: 21:50 +10% Attack Speed  +9 Adaptive  +6 Armor  Cut Down Total Bonus Damage: 244",
+    "Unnamed: 3":"Precision Inspiration Lethal Tempo Max Attack Speed Uptime: 30:2 Biscuit Delivery Biscuits Received: 3 Overheal Total Shielding: 2485 Cosmic Insight  Legend: Bloodline Time Completed: 21:50 +10% Attack Speed  +9 Adaptive  +6 Armor  Cut Down Total Bonus Damage: 244",
+    "KDA":"3\/0\/4",
+    "CS":297,
+    "Champion":"Xayah"
+  },
+  {
+    "Player":"Kellin",
+    "Unnamed: 1":"Resolve Domination Guardian Total Shield Strength: 836 Zombie Ward Wards spawned: 26, Adaptive Force Gained: 30 Font of Life Total Ally Healing: 288 Ultimate Hunter Total Stacks: 5 Second Wind Total Healing: 546 +8 Ability Haste  +8 Magic Resist  +6 Armor  Overgrowth Total Bonus Max Health: 137",
+    "Unnamed: 2":"Resolve Domination Guardian Total Shield Strength: 836 Zombie Ward Wards spawned: 26, Adaptive Force Gained: 30 Font of Life Total Ally Healing: 288 Ultimate Hunter Total Stacks: 5 Second Wind Total Healing: 546 +8 Ability Haste  +8 Magic Resist  +6 Armor  Overgrowth Total Bonus Max Health: 137",
+    "Unnamed: 3":"Resolve Domination Guardian Total Shield Strength: 836 Zombie Ward Wards spawned: 26, Adaptive Force Gained: 30 Font of Life Total Ally Healing: 288 Ultimate Hunter Total Stacks: 5 Second Wind Total Healing: 546 +8 Ability Haste  +8 Magic Resist  +6 Armor  Overgrowth Total Bonus Max Health: 137",
+    "KDA":"0\/0\/8",
+    "CS":40,
+    "Champion":"Rakan"
+  }
+]

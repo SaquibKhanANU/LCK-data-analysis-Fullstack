@@ -1,0 +1,23 @@
+.team-data-container {
+    display: grid;
+    grid-template-columns: 40% 20% 40%;
+    align-items: center;
+    justify-items: center; /* Center items along the horizontal axis */
+    font-family: var(--global-font);
+    font-size: 10px;
+    font-weight: 800;
+    padding: 10px 10px;
+    background-color: black;
+    height: 20px;
+    border-bottom: 1px solid var(--border-gray);
+}
+
+.team-data {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    gap: 10px
+}
+
+

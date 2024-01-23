@@ -79,7 +79,7 @@ const TableComponent = ({ jsonTableData, keyData }) => {
     });
 
     return sortedKeys.map((tableKey) => {
-      const data = keyData && keyData.find((team) => team.name === tableKey);
+      const data = keyData && keyData.find((key) => key.name === tableKey);
 
       return (
         <tr key={tableKey}>

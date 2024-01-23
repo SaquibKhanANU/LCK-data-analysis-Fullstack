@@ -1,0 +1,39 @@
+
+
+
+.bans-list-container {
+    display: flex;
+    flex-direction: column;
+    font-size: 10px;
+    width:100%;
+
+  }
+  
+  .bans-list-header {
+    font-size: 12px;
+    font-weight: 800;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: var(--riot-red);
+  }
+
+  .bans-list-header p {
+    margin: 0px;
+  }
+
+  .champion-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .champion-list li {
+    flex: 1;
+  }
+  
+  .champion-ban-image {
+    width: 100%;
+    height: auto;
+  }

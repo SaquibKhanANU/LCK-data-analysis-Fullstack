@@ -1,9 +1,11 @@
 import "./games-navbar.css";
+import React, { useState, useEffect } from "react";
+import axios from "axios";
 
-function GamesSelectorNavbar({ games }) {
+function GamesSelectorNavbar({ games, onGameLinkChange }) {
   const handleButtonClick = (gameDataLink) => {
-    // Call the mineGameData function with the game_data_link
-    mineGameData(gameDataLink);
+    // Call the membners function
+    onGameLinkChange(gameDataLink);
   };
 
   const gameButtons = games

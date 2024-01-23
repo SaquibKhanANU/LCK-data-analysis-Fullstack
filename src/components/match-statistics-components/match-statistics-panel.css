@@ -4,4 +4,19 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
+    overflow-y: scroll;
+    max-height: 90vh;
 }
+
+
+.bans {
+    padding: 0px 20%;
+}
+
+.blue .teams-list-header {
+    color: blue;
+  }
+  
+  .red .teams-list-header {
+    color: red;
+  }

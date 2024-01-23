@@ -1,0 +1,26 @@
+
+.player-data-tile-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    font-size: 10px;
+    gap: 15px;
+    border-top: 1px solid var(--border-gray);
+    border-bottom: 1px solid    var(--border-gray);
+    align-items: center;
+    text-align: center;
+}
+
+.champion-player-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    max-width: 100px; /* Set the maximum width for the image */
+    max-height: 100px; /* Set the maximum height for the image */
+}
+.player-name {
+    font-weight: 600;
+}
+
+.kda {
+    letter-spacing: 1px;
+}
